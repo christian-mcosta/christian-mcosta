@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christian-mcosta
+- 👋 Hi, I’m @christian-miranda
 - 👀 I’m interested in  solucionar problemas  com  tecnologia e programação
 - 🌱 I’m currently learning  mais sobre a linguagem c# e  infraestrutura
 - 💞️ I’m looking to collaborate on  em projetos open source e  ajudar a quem quiser.
